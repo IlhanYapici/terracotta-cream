@@ -32,7 +32,7 @@ A warm, earthy color theme inspired by terracotta pottery and cream colors, desi
 ## Installation
 
 1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X` / `⌘+Shift+X`)
-2. Search for `Terracotta Cream Theme`
+2. Search for `Terracotta Cream`
 3. Click **Install**
 4. Select the theme variant through **File > Preferences > Color Theme** (or `Ctrl+K Ctrl+T`)
 
@@ -40,8 +40,8 @@ A warm, earthy color theme inspired by terracotta pottery and cream colors, desi
 
 If you find any issues or have suggestions for improvements:
 
-- [Open an issue](https://github.com/yourusername/terracotta-cream-theme/issues)
-- [Submit a pull request](https://github.com/yourusername/terracotta-cream-theme/pulls)
+- [Open an issue](https://github.com/IlhanYapici/terracota-cream/issues)
+- [Submit a pull request](https://github.com/IlhanYapici/terracota-cream/pulls)
 
 
 ## License
