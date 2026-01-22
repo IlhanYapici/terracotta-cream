@@ -40,8 +40,8 @@ A warm, earthy color theme inspired by terracotta pottery and cream colors, desi
 
 If you find any issues or have suggestions for improvements:
 
-- [Open an issue](https://github.com/IlhanYapici/terracota-cream/issues)
-- [Submit a pull request](https://github.com/IlhanYapici/terracota-cream/pulls)
+- [Open an issue](https://github.com/IlhanYapici/terracotta-cream/issues)
+- [Submit a pull request](https://github.com/IlhanYapici/terracotta-cream/pulls)
 
 
 ## License
