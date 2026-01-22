@@ -1,6 +1,6 @@
 {
   "name": "terracota-cream",
-  "displayName": "Terracota Cream",
+  "displayName": "Terracotta Cream",
   "description": "Claude-inspired VS Code color theme.",
   "version": "0.0.1",
 	"publisher": "iyapici",
@@ -34,14 +34,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Terracota Cream Dark",
-        "uiTheme": "vs",
-        "path": "./themes/terracota-cream-dark.json"
+        "label": "Terracotta Cream Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/terracotta-cream-dark.json"
       },
 			{
-        "label": "Terracota Cream Light",
+        "label": "Terracotta Cream Light",
         "uiTheme": "vs",
-        "path": "./themes/terracota-cream-light.json"
+        "path": "./themes/terracotta-cream-light.json"
       }
     ]
   }
